@@ -6,5 +6,5 @@ void main() {
   subjects.add('Computer Network and Data Communication');
   print('Updated subjects : $subjects');
   Map<String,int> studentScores = {'System Analysis and Design': 50 ,'Mobile Application Developer' : 90 };
-  print('')
+  print('');
 }
